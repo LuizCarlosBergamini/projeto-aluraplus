@@ -1,5 +1,7 @@
 # Alura Course Project: Simple Site
 
+[url=https://ibb.co/zGDTxwr][img]https://i.ibb.co/zGDTxwr/Screenshot-1.png[/img][/url] [url=https://ibb.co/8DrmTPH][img]https://i.ibb.co/8DrmTPH/Screenshot-2.png[/img][/url] [url=https://ibb.co/x86F4yX][img]https://i.ibb.co/x86F4yX/Screenshot-3.png[/img][/url] [url=https://ibb.co/ZdrptB7][img]https://i.ibb.co/ZdrptB7/Screenshot-4.png[/img][/url] [url=https://ibb.co/GHKd3hM][img]https://i.ibb.co/GHKd3hM/Screenshot-5.png[/img][/url]
+
 ![Site Screenshot](https://ibb.co/zGDTxwr)
 ![Site Screenshot](https://ibb.co/8DrmTPH)
 ![Site Screenshot](https://ibb.co/x86F4yX)
