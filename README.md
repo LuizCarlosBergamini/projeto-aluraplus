@@ -1,10 +1,10 @@
 # Alura Course Project: Simple Site
 
-![Site Screenshot](https://prnt.sc/949b9-wlIHGB)
-![Site Screenshot](https://prnt.sc/QVjtKhEP6uzq)
-![Site Screenshot](https://prnt.sc/WfzzB5-Klfo5)
-![Site Screenshot](https://prnt.sc/vnulV9NJXo1S)
-![Site Screenshot](https://prnt.sc/ZE_n81phYzeF)
+![Site Screenshot](https://ibb.co/zGDTxwr)
+![Site Screenshot](https://ibb.co/8DrmTPH)
+![Site Screenshot](https://ibb.co/x86F4yX)
+![Site Screenshot](https://ibb.co/ZdrptB7)
+![Site Screenshot](https://ibb.co/GHKd3hM)
 
 This project was developed as part of a course offered by Alura, a renowned online learning platform. The aim of the course was to introduce students to web development using HTML and CSS. This README file provides an overview of the project, its features, and instructions on how to run it.
 
